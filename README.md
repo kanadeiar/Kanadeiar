@@ -34,9 +34,6 @@ Here are some ideas to get you started:
   <a href="https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor">
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Blazor.png" alt="Blazor" height="60px" style="vertical-align:top; margin:4px">
   </a>
-  <a href="https://www.github.com">
-    <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="github" style="vertical-align:top; margin:4px">
-  </a>
   <a href="https://www.git.com">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git-scm" style="vertical-align:top; margin:4px">
   </a>
